@@ -1,11 +1,11 @@
 ; vim: ft=gitconfig
 
 [user]
-  name = Matt Smith
-  email = mtscout6@gmail.com
+  name = Anson Wayman
+  email = Anson.Wayman@extendhealth.com
 
 [github]
-  user = mtscout6
+  user = ansoway
 
 [core]
   editor = vim
